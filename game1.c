@@ -1,3 +1,4 @@
+// This code for Fizz & Buzz Game Using C Language
 #include<stdio.h>
 void fbchoice(){
     for(int i=0;i<=100;i++){
